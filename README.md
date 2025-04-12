@@ -54,6 +54,12 @@ A: Emotionally? No. Technically? Maybe.
 A: yes. But fabulously.
 
 ---
+## Screenshots
+Wallpapers and other imagery are in the wallpapers folder in the main branch then images
+![image](https://github.com/user-attachments/assets/43b13672-d289-4c05-8ef7-e6ad10593ce8)
+![image](https://github.com/user-attachments/assets/a8d8a8c1-89e7-407f-aae0-98c6ee95d725)
+
+---
 
 ### 🗑️ Uninstallation
 uninstallation is planned for a later time, 
