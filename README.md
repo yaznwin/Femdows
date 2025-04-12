@@ -1,59 +1,47 @@
 ## Femdows
 
-> ***"Your Windows, but weirder, and possibly haunted."***
-Femdows is a cursed yet fabulous project that bends your windows into something that i dont even know what it is myself
+> ***"Your Windows, but if it was actually good."***
+Femdows is a cursed project that bends your windows into something that i dont even know what it is myself
 
 ---
 
-### ✨ Features
+### ⚠ Warning ⚠
+
+**This will absolutely mess with your system.**  
+Use on a VM or a machine you’re ready to sacrifice to the femboy overlords.  
+I’m not responsible for any illneses caused by this, psychological, physical, or digital.
+---
+
+### Features
 
 -  Full theme overhaul (two included accessible via control panel or settings)
 -  Windhawk mod tweaks
 -  Custom `StartIsBack++` setup
 -  Registry spellcasting (lots of it)
--  Explorer, DWM, and shell tweaks
--  UltraUXThemePatcher ritual automation
--  Cleans up system clutter (or makes it worse)
+-  Some Shell tweaks
 -  Comes with a side of identity crisis
 -  Restore and fix some control panel pages
--  so many pink icons riddled within the theme
----
-
-### ⚠️ Warning
-
-**This will absolutely mess with your system.**  
-Use on a VM or a machine you’re ready to sacrifice to astolfo.  
-I’m not responsible for any illneses caused by this, psychological, physical, or digital.
+-  so many pink icons riddled within this abomination of a project 🥀🥀
 
 ---
 
-### 🛠️ Installation
+### Installation
 
-> Run `fempize.exe` with your soul prepared
-
+> Run `fempize.exe`
 Behind the scenes, `fempize.exe` will:
 
 - Copy theme files and custom resources  
-- Install Windhawk silently  
+- Install Windhawk & mods, startisback++, UltraUXThemePatcher via simulated ui input silently  
 - Kill and restart `explorer.exe` several times (violently)  
 - Install multiple registry entries (each one blessed)  
-- Patch Windows using UltraUXThemePatcher via simulated UI input  
-- Clean cache and explorer data  
-- Launch Femdows.theme on completion & restart
+- Clean icon cache and explorer data  
+- Change the theme on restart
 
 ---
 
-### 🧷 Dependencies
+### Dependencies
 
 - [AutoHotkey v2.0.6+](https://www.autohotkey.com/)
-- Admin privileges (seriously)
-- Optional: 17 system restore points
-
----
-
-### Screenshots
-
-*soon. pretend you saw something magical here.*
 
 ---
 
@@ -63,14 +51,14 @@ Behind the scenes, `fempize.exe` will:
 A: Emotionally? No. Technically? Maybe.
 
 **Q: Will this mess up my PC?**  
-A: Yes. But fabulously.
+A: yes. But fabulously.
 
 ---
 
 ### 🗑️ Uninstallation
-
-im sorry gng u is NOT restoring ts shit 😭😭😭
-manually restore your theme, reverse the registry changes, uninstall Windhawk/StartIsBack, and perform a system exorcism. and 17 system restores
+uninstallation is planned for a later time, 
+for now change your theme back to aero.theme, uninstall Windhawk & StartIsBack, clear the icon cahce in %localappdata%\Microsoft\Windows\Explorer\*.db
+delete C:\Femdows\, run ie4uinit -show, and you should be good to go 
 
 ---
 
