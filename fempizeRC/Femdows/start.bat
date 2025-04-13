@@ -1,0 +1,1 @@
+C:\Femdows\psexec64.exe -s -i -accepteula cmd.exe /c C:\Femdows\injector.exe

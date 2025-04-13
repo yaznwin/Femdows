@@ -1,0 +1,89 @@
+{
+  "app": {
+    "latestVersion": "1.5.1",
+    "version": "1.5.1"
+  },
+  "id": "{5EF1F168-73CC-4A0A-8BB7-55C34B276BFE}",
+  "mods": {
+    "aerexplorer": {
+      "disabled": false,
+      "latestVersion": "1.6.4",
+      "version": "1.6.4",
+      "rating": 5
+    },
+    "old-this-pc-commands": {
+      "latestVersion": "1.0.1",
+      "version": "1.0.1",
+      "disabled": false
+    },
+    "taskbar-volume-control": {
+      "version": "1.2.2",
+      "disabled": true,
+      "latestVersion": "1.2.2"
+    },
+    "win32-tray-clock-experience": {
+      "latestVersion": "1.0.0",
+      "version": "1.0.0",
+      "disabled": false
+    },
+    "aero-flyout-fix": {
+      "version": "1.1.0",
+      "latestVersion": "1.1.0",
+      "disabled": false
+    },
+    "aero-tray": {
+      "version": "1.0.2",
+      "latestVersion": "1.0.2",
+      "disabled": false
+    },
+    "fix-basic-caption-text": {
+      "version": "1.1.1",
+      "latestVersion": "1.1.1",
+      "disabled": false
+    },
+    "eradicate-immersive-menus": {
+      "version": "1.1.0",
+      "latestVersion": "1.1.0",
+      "disabled": false
+    },
+    "legacy-file-copy": {
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "disabled": false
+    },
+    "windows-7-clock-spacing": {
+      "version": "1.0.0",
+      "latestVersion": "1.0.0",
+      "disabled": false
+    },
+    "win7-style-uac-dim": {
+      "version": "1.0.1",
+      "latestVersion": "1.0.1",
+      "disabled": false
+    },
+    "win7-alttab-loader": {
+      "version": "2.0.0",
+      "disabled": false,
+      "latestVersion": "2.0.0"
+    },
+    "sib-plusplus-tweaker": {
+      "version": "0.7.1",
+      "latestVersion": "0.7.1",
+      "disabled": false
+    },
+    "icon-resource-redirect": {
+      "version": "1.1.9",
+      "latestVersion": "1.1.9",
+      "disabled": false
+    },
+    "balloon-sound-fix": {
+      "version": "1.0.0",
+      "latestVersion": "1.0.0"
+    },
+    "custom-desktop-watermark": {
+      "version": "1.0.2",
+      "latestVersion": "1.0.2"
+    }
+  },
+  "os": "10.0.19045"
+}

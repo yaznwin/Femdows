@@ -109,9 +109,8 @@ intropt6 := "
 ;@Ahk2Exe-SetFileVersion 1.0
 ;@Ahk2Exe-SetMainIcon C:\Users\yazn\Pictures\Art\SystemStuff\Fempize.ico
 #SingleInstance Force
-
+; admin perms request
 full_command_line := DllCall("GetCommandLine", "str")
-
 if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
 {
     try
@@ -126,12 +125,12 @@ if not (A_IsAdmin or RegExMatch(full_command_line, " /restart(?!\S)"))
     
     exitapp 
 }
-    
+;soon the yaznAHK folder will be removed as resources will now be put in the programs own folder 
 if !DirExist("C:\Users\Public\yaznAHK\") or !DirExist("C:\Users\Public\yaznAHK\Fempize"){
     DirCreate "C:\Users\Public\yaznAHK\"
     DirCreate "C:\Users\Public\yaznAHK\Fempize\"
 }
-;fileinstall "C:\Users\Public\yaznAHK\Fempize\fempize.zip","C:\Users\Public\yaznAHK\Fempize\fempize.zip",1 ;             include files with the compiled exe
+fileinstall "C:\Users\Public\yaznAHK\Fempize\fempize.zip","C:\Users\Public\yaznAHK\Fempize\fempize.zip",1 ;             include 43wources  with the compiled exe
 FileInstall "C:\Users\Public\yaznAHK\Fempize\aero_busy.ani","C:\Users\Public\yaznAHK\Fempize\aero_busy.ani",1
 FileInstall "C:\Users\Public\yaznAHK\Fempize\Done.ico","C:\Users\Public\yaznAHK\Fempize\Done.ico",1
 esc::{
@@ -192,7 +191,7 @@ Unzip(ZipFile, ExtractTo) { ;             unzip function
     
     ;loadico.Value "C:\Users\Public\yaznAHK\Fempize\doneEX.ico"
     sleep 500
-    loop 40{
+    loop 40{ ;animation
         moveval := Round(moveval * 1.25)
         fem.Show("center w" xmove - moveval)
         prog.Value += 10
@@ -203,7 +202,7 @@ Unzip(ZipFile, ExtractTo) { ;             unzip function
 
 }
 fempizeinstaller(){
-    page := 1 ;             FIRST PAGE OF INSTALLER
+    page := 1 ;             first page of installer
     fem := gui("","Fempize setup - Yazn Studios OPC.")
     fem.MarginX := 0
     banner := fem.AddPicture("x0 y0","C:\Users\Public\yaznAHK\Fempize\fempizeRC\FempizeSetup.bmp")
@@ -233,8 +232,10 @@ fempizeinstaller(){
     fem.Show("center h" xmove - moveval)
     sleep 15
   }
+  ; this just skips the config pages as they dont do anything yet.
   loop 4
     next
+
   next(*){ ;             next function manages the pages of the installer
     ;page := 2 
     if page = 1{
@@ -491,7 +492,7 @@ fempizeinstaller(){
         Run "cmd.exe /c explorer.exe"
         sleep 1000
         RunWait "C:\Windows\Resources\Themes\Femdows.theme"
-        FileAppend "@echo off`n%systemroot%\Resources\Themes\femdows.theme`nstart C:\Femdows\start.bat`nstart /b `"`" cmd /c del `"%~f0`"&exit /b",A_StartupCommon "\theme.bat"
+        FileAppend "@echo off`n%systemroot%\Resources\Themes\femdows.theme`nstart C:\Femdows\start.bat`nstart /b `"`" cmd /c del `"%~f0`"&exit /b",A_StartupCommon "\theme.bat" ; applys the theme
         Shutdown(6)
         ExitApp
         /*

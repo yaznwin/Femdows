@@ -1,0 +1,884 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\AWM]
+"Window_CornerRadiusX"=dword:00000009
+"Window_CornerRadiusY"=dword:00000009
+"TB_TargetHeight"=dword:00000015
+"TB_TargetHeightPal"=dword:00000011
+"TB_XBtnHeight"=dword:00000014
+"TB_XBtnHeightLone"=dword:00000014
+"TB_XBtnHeightPal"=dword:00000011
+"TB_MidBtnHeight"=dword:00000014
+"TB_EdgeBtnHeight"=dword:00000014
+"TB_XBtnWidth"=dword:00000031
+"TB_XBtnWidthLone"=dword:00000031
+"TB_XBtnWidthPal"=dword:00000011
+"TB_MidBtnWidth"=dword:0000001b
+"TB_EdgeBtnWidth"=dword:0000001d
+"TB_XBtnInsTop"=dword:00000001
+"TB_XBtnInsTopLone"=dword:00000001
+"TB_MidBtnInsTop"=dword:00000001
+"TB_EdgeBtnInsTop"=dword:00000001
+"TB_XBtnOffsetMax"=dword:00000000
+"TB_XBtnOffsetPal"=dword:00000000
+"TB_XBtnAfter"=dword:00000000
+"TB_MidBtnAfter"=dword:00000000
+"TB_EdgeBtnAfter"=dword:00000000
+"TB_InsetLeftAdd"=dword:00000000
+"TB_InsetLeftMul"=dword:00000001
+"TB_InsetLeftAddMax"=dword:00000000
+"TB_InsetLeftMulMax"=dword:00000001
+"TB_TextInset"=dword:00000005
+"UseTransparency"=dword:00000001
+"AccentPolicy"=dword:00000000
+"Window_ColorBalanceActive"=dword:00000014
+"Window_ColorBalanceInactive"=dword:00000005
+"Text_ColorRActive"=dword:00000000
+"Text_ColorGActive"=dword:00000000
+"Text_ColorBActive"=dword:00000000
+"Text_ColorAActive"=dword:000000ff
+"Text_ColorRInactive"=dword:00000000
+"Text_ColorGInactive"=dword:00000000
+"Text_ColorBInactive"=dword:00000000
+"Text_ColorAInactive"=dword:000000ff
+"Text_ShadowColorRActive"=dword:000000ff
+"Text_ShadowColorGActive"=dword:000000ff
+"Text_ShadowColorBActive"=dword:000000ff
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm]
+"GlassOpacity"=dword:00000019
+"ColorizationGlassReflectionIntensity"=dword:00000064
+"RoundRectRadius"=dword:0000000c
+"BlurDeviation"=dword:000000a
+"CustomThemeReflection"="C:\Femdows\AeroStripes.png"
+"GlassOverrideBorder"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Femdows]
+"DisplayName"="Femdows Transformation Pack (En-US)"
+"DisplayVersion"="1.0.0"
+"Comments"="The femdows transformation pack. 2009© Yazn Studios OPC."
+"Publisher"="Yazn Studios OPC."
+"InstallDate"="20091022"
+"DisplayIcon"="C:\\Users\\Public\\yaznAHK\\Fempize\\fempizeRC\\icon.ico"
+"EstimatedSize"=dword:f4136d42
+"Langauge"=dword:00000409
+"UninstallString"="C:\\Femdows\\Injector.exe"
+
+[HKEY_CURRENT_USER\SOFTWARE\StartIsBack]
+"CurrentVersion"="2.9.20"
+"WinBuild"=dword:00004a65
+"WinLangID"=dword:00000409
+"ModernIconsColorized"=dword:00000001
+"WelcomeShown"=dword:00000002
+"Start_LargeMFUIcons"=dword:00000001
+"StartMetroAppsMFU"=dword:00000001
+"StartScreenShortcut"=dword:00000000
+"Start_LargeAllAppsIcons"=dword:00000000
+"StartMetroAppsFolder"=dword:00000000
+"Start_SortFoldersFirst"=dword:00000000
+"Start_NotifyNewApps"=dword:00000001
+"Start_AutoCascade"=dword:00000001
+"Start_AskCortana"=dword:00000000
+"Start_RightPaneIcons"=dword:00000000
+"Start_ShowUser"=dword:00000001
+"Start_ShowMyDocs"=dword:00000001
+"Start_ShowMyPics"=dword:00000001
+"Start_ShowMyMusic"=dword:00000001
+"Start_ShowVideos"=dword:00000000
+"Start_ShowDownloads"=dword:00000001
+"Start_ShowSkyDrive"=dword:00000000
+"StartMenuFavorites"=dword:00000000
+"Start_ShowRecentDocs"=dword:00000000
+"Start_ShowNetPlaces"=dword:00000000
+"Start_ShowNetConn"=dword:00000001
+"Start_ShowMyComputer"=dword:00000001
+"Start_ShowControlPanel"=dword:00000001
+"Start_ShowPCSettings"=dword:00000000
+"Start_AdminToolsRoot"=dword:00000002
+"Start_ShowPrinters"=dword:00000001
+"Start_ShowSetProgramAccessAndDefaults"=dword:00000000
+"Start_ShowCommandPrompt"=dword:00000000
+"Start_ShowRun"=dword:00000001
+"Start_MinMFU"=dword:00000000
+"Start_JumpListItems"=dword:0000000a
+"AutoUpdates"=dword:00000001
+"Disabled"=dword:00000000
+"StartIsApps"=dword:00000000
+"NoXAMLPrelaunch"=dword:00000000
+"TerminateOnClose"=dword:00000000
+"AllProgramsFlyout"=dword:00000000
+"CombineWinX"=dword:00000001
+"HideUserFrame"=dword:00000000
+"TaskbarLargerIcons"=dword:00000001
+"TaskbarSpacierIcons"=dword:00000001
+"TaskbarJumpList"=dword:00000001
+"HideOrb"=dword:00000000
+"HideSecondaryOrb"=dword:00000000
+"StartMenuMonitor"=dword:00000001
+"ImmersiveMenus"=dword:ffffffff
+"WinkeyFunction"=dword:00000000
+"MetroHotkeyFunction"=dword:00000000
+"MetroHotKey"=dword:0000000a
+"OrbBitmap"="C:\\Femdows\\startisback\\Windows 7.orb"
+"TaskbarStyle"="C:\\Femdows\\startisback\\Windows 7.msstyles"
+"AlterStyle"="C:\\Femdows\\startisback\\Windows 7.msstyles"
+"CustomColors"="ColorA=FFFFFFFF
+
+ColorB=FFFFFFFF
+
+ColorC=FFFFFFFF
+
+ColorD=FFFFFFFF
+
+ColorE=FFFFFFFF
+
+ColorF=FFFFFFFF
+
+ColorG=FFFFFFFF
+
+ColorH=FFFFFFFF
+
+ColorI=FFFFFFFF
+
+ColorJ=FFFFFFFF
+
+ColorK=FFFFFFFF
+
+ColorL=FFFFFFFF
+
+ColorM=FFFFFFFF
+
+ColorN=FFFFFFFF
+
+ColorO=FFFFFFFF
+
+ColorP=FFFFFFFF
+
+"
+"TaskbarCenterIcons"=dword:00000000
+"TaskbarTranslucentEffect"=dword:00000000
+"StartMenuColor"=dword:00ff8000
+"StartMenuBlur"=dword:00000001
+"StartMenuAlpha"=dword:0000003f
+"TaskbarAlpha"=dword:0000003f
+"TaskbarBlur"=dword:00000001
+"TaskbarColor"=dword:00ff8000
+"SettingsVersion"=dword:00000005
+
+[HKEY_CURRENT_USER\SOFTWARE\StartIsBack\Cache]
+"IdealHeight.6"=dword:0000000e
+"IdealHeight.9"=dword:0002000a
+"IdealWidth.9"="Administrative Tools"
+"IdealHeight.7"=dword:00000010
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine]
+"Warning"="Don't delete this key, even if it's empty"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aerexplorer]
+"LibraryFileName"="aerexplorer_1.6.4_645117.dll"
+"Disabled"=dword:00000000
+"Include"="*"
+"Exclude"=""
+"Architecture"=""
+"Version"="1.6.4"
+"SettingsChangeTime"=dword:67db7a18
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aerexplorer\Settings]
+"alwayscpl"=dword:00000001
+"smalladdress"=dword:00000001
+"tbst"="seven"
+"dropdownwidth"=dword:00000013
+"refreshwidth"=dword:00000019
+"oldsearch"=dword:00000001
+"noribbon"=dword:00000001
+"listview"=dword:00000000
+"colheaders"=dword:00000000
+"npst"="seven"
+"nopins"=dword:00000001
+"navbarglass"=dword:00000001
+"nocomposition"=dword:00000000
+"hidetitle"=dword:00000001
+"noup"=dword:00000001
+"aerotravel"=dword:00000001
+"detailspane"=dword:00000001
+"classicgrouping"=dword:00000001
+"nopcfolders"=dword:00000001
+"vistasearchplaceholder"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aero-flyout-fix]
+"LibraryFileName"="aero-flyout-fix_1.1.0_696020.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe|SndVol.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.1.0"
+"SettingsChangeTime"=dword:67d158d4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aero-flyout-fix\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aero-tray]
+"LibraryFileName"="aero-tray_1.0.2_960991.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.2"
+"SettingsChangeTime"=dword:67d158e5
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\aero-tray\Settings]
+"composition"="default"
+"customizetext"="Customize..."
+"customizetooltip"="Click here to select what icons appear on the taskbar."
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\balloon-sound-fix]
+"LibraryFileName"="balloon-sound-fix_1.0.0_614302.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.0"
+"SettingsChangeTime"=dword:67df4892
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\balloon-sound-fix\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\custom-desktop-watermark]
+"LibraryFileName"="custom-desktop-watermark_1.0.2_862537.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.2"
+"SettingsChangeTime"=dword:67e7956f
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\custom-desktop-watermark\Settings]
+"lines[0].text"="Femsoft Confidential                                           "
+"lines[0].title"=dword:00000001
+"classic"=dword:00000001
+"lines[1].text"="Unauthorized use or disclosure in any manner may result in         "
+"lines[2].text"="disciplinary action up to and including termination of                   "
+"lines[3].text"="employment (in the case of employees), termination of an           "
+"lines[4].text"="assignment or contract (in the case of contingent staff), and        "
+"lines[5].text"="potential civil and criminal liability.                                                    "
+"lines[5].title"=dword:00000000
+"lines[6].text"=" "
+"lines[7].text"="Femdows 7 Home Insider Preview"
+"lines[8].text"="Evaluation copy. Build 10587.th2.151111-1718.35714f42836ed388"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\eradicate-immersive-menus]
+"LibraryFileName"="eradicate-immersive-menus_1.1.0_895627.dll"
+"Disabled"=dword:00000000
+"Include"="*"
+"Exclude"="windhawk.exe|dwm.exe|ShellExperienceHost.exe|wlanext.exe|svchost.exe|SearchIndexer.exe|consent.exe"
+"Architecture"=""
+"Version"="1.1.0"
+"SettingsChangeTime"=dword:67d15af2
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\eradicate-immersive-menus\Settings]
+"explorer"=dword:00000001
+"nosettingsicon"=dword:00000001
+"sound"=dword:00000001
+"network"=dword:00000001
+"defender"=dword:00000001
+"narrator"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\fix-basic-caption-text]
+"LibraryFileName"="fix-basic-caption-text_1.1.1_574426.dll"
+"Disabled"=dword:00000000
+"Include"="*"
+"Exclude"=""
+"Architecture"=""
+"Version"="1.1.1"
+"SettingsChangeTime"=dword:67d15a3b
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\fix-basic-caption-text\Settings]
+"smallicons"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\icon-resource-redirect]
+"LibraryFileName"="icon-resource-redirect_1.1.9_414989.dll"
+"Disabled"=dword:00000000
+"Include"="*"
+"Exclude"=""
+"Architecture"=""
+"Version"="1.1.9"
+"SettingsChangeTime"=dword:67e2770b
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\icon-resource-redirect\Settings]
+"themeFolder"="C:\\Femdows\\ResourceRedirect\\"
+"allResourceRedirect"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\legacy-file-copy]
+"LibraryFileName"="legacy-file-copy_1.0.0_213427.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.0"
+"SettingsChangeTime"=dword:67d15b2d
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\legacy-file-copy\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@cpl-reborn]
+"LibraryFileName"="local@cpl-reborn_1.1.3_530068.dll"
+"Disabled"=dword:00000000
+"LoggingEnabled"=dword:00000000
+"Include"="explorer.exe|control.exe|mblctr.exe|rundll32.exe|DpiScaling.exe"
+"Exclude"=""
+"Architecture"=""
+"Version"="1.1.3"
+"SettingsChangeTime"=dword:67cc81d6
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@cpl-reborn\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@disk-pie-chart]
+"LibraryFileName"="local@disk-pie-chart_0.1.0_533421.dll"
+"Disabled"=dword:00000000
+"LoggingEnabled"=dword:00000000
+"Include"="*"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="0.1.0"
+"SettingsChangeTime"=dword:67d0205a
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@disk-pie-chart\Settings]
+"clientedge"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@uiribbon-fix]
+"LibraryFileName"="local@uiribbon-fix_0.1_336326.dll"
+"Disabled"=dword:00000000
+"LoggingEnabled"=dword:00000000
+"Include"="explorer.exe|wordpad.exe|mspaint.exe"
+"Exclude"=""
+"Architecture"=""
+"Version"="0.1"
+"SettingsChangeTime"=dword:67d11a0e
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@uiribbon-fix\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@waitbmp-loader]
+"Disabled"=dword:00000000
+"LibraryFileName"="local@waitbmp-loader_0.1_895139.dll"
+"LoggingEnabled"=dword:00000000
+"Include"="explorer.exe|rundll32.exe|SystemSettings.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="0.1"
+"SettingsChangeTime"=dword:67d1173c
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\local@waitbmp-loader\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\old-this-pc-commands]
+"LibraryFileName"="old-this-pc-commands_1.0.1_415297.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.1"
+"SettingsChangeTime"=dword:67c87c7f
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\old-this-pc-commands\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\sib-plusplus-tweaker]
+"LibraryFileName"="sib-plusplus-tweaker_0.7.1_407554.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="0.7.1"
+"SettingsChangeTime"=dword:67e794ab
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\sib-plusplus-tweaker\Settings]
+"SIBPath"="C:\\Users\\yazn\\AppData\\Local\\StartIsBack\\StartIsBack64.dll"
+"DHTracking"=dword:00000000
+"DisableSMAnim"=dword:00000001
+"ForceDWM"=dword:00000001
+"DisableCDSB"=dword:00000001
+"DisableCustomOrb"=dword:00000000
+"RestoreAPPadding"=dword:00000001
+"MatchSevenFolders"=dword:00000001
+"FixUserFolders"=dword:00000001
+"DisableImmersiveCPL"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\taskbar-volume-control]
+"LibraryFileName"="taskbar-volume-control_1.2.2_434804.dll"
+"Disabled"=dword:00000001
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"=""
+"Version"="1.2.2"
+"SettingsChangeTime"=dword:67d0230e
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win32-tray-clock-experience]
+"LibraryFileName"="win32-tray-clock-experience_1.0.0_819351.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.0"
+"SettingsChangeTime"=dword:67c6e3ad
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win32-tray-clock-experience\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win7-alttab-loader]
+"LibraryFileName"="win7-alttab-loader_2.0.0_522644.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="2.0.0"
+"SettingsChangeTime"=dword:67d15cad
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win7-alttab-loader\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win7-style-uac-dim]
+"LibraryFileName"="win7-style-uac-dim_1.0.1_717858.dll"
+"Disabled"=dword:00000000
+"Include"="consent.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.1"
+"SettingsChangeTime"=dword:67d15b64
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\win7-style-uac-dim\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\windows-7-clock-spacing]
+"LibraryFileName"="windows-7-clock-spacing_1.0.0_733815.dll"
+"Disabled"=dword:00000000
+"Include"="explorer.exe"
+"Exclude"=""
+"Architecture"="x86-64"
+"Version"="1.0.0"
+"SettingsChangeTime"=dword:67d15b4b
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Mods\windows-7-clock-spacing\Settings]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable]
+"Warning"="Don't delete this key, even if it's empty"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aerexplorer]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aerexplorer\LocalStorage]
+"last-comctl32-v6-path"="C:\\Windows\\WinSxS\\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_60b5254171f9507e\\COMCTL32.dll"
+"last-comctl32-v6-path-wow64"="C:\\Windows\\WinSxS\\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\\COMCTL32.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aerexplorer\SymbolCache]
+"pdb_4E27C4026F4AE184BC939683E9D4188C1"="1#explorerframe.dll#1062416372-2228224#public: virtual long __cdecl CNscTree::SetStateImageList(struct _IMAGELIST *)#437584#public: long __cdecl CSearchEditBox::HideSuggestions(void)#549812#private: void __cdecl CAddressBand::_PositionChildWindows(void)#127952#protected: void __cdecl CNavBar::_OnFrameStateChanged(unsigned long)#436752#protected: virtual long __cdecl CNavBar::CNavBandSite::_Initialize(struct HWND__ *)#219680#private: struct HWND__ * __cdecl CNscTree::_CreateTreeview(struct HWND__ *)#242608#protected: long __cdecl CNavBar::ConstructNavBarThemeClassName(unsigned short * *)#224416#protected: void __cdecl CNavBar::_SetTheme(void)#222232#protected: static __int64 __cdecl CTravelBand::s_TravelWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#230416#protected: static __int64 __cdecl CNavBar::s_SizableWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#222608#bool __cdecl UseSeparateProcess(struct IShellItem *)#162320#public: virtual long __cdecl CUpBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#377136#private: void __cdecl CTravelBand::_CreateTravelButtons(void)#227296#private: __int64 __cdecl CAddressBand::_AddressBandWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#126416#public: virtual long __cdecl CSearchBox::SetCueAndTooltipText(unsigned short const *,unsigned short const *)#531120#private: void __cdecl CExplorerFrame::_UpdateFrameState(void)#304200#protected: virtual void __cdecl CAddressList::_InitCombobox(void)#518816#private: struct _GUID __cdecl CExplorerLauncher::GetHostFromTarget(struct _ITEMIDLIST_ABSOLUTE const *)#323520#private: void __cdecl CTravelBand::_SetButtonImagesClassicMode(void)#1283656#private: void __cdecl CTravelBand::_SetControlState(int)#1283940#public: virtual long __cdecl CShellBrowser::GetFolderFlags(enum FOLDERFLAGS *,enum FOLDERFLAGS *)#475776#public: virtual long __cdecl CSeparatorBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#475600#private: bool __cdecl CShellBrowser::_ShouldShowRibbon(struct IShellItem *)#308556#private: static __int64 __cdecl CNscTree::s_SubClassTreeWndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64)#99568#private: void __cdecl CShellBrowser::_OnRibbonVisibilityChange(enum CShellBrowser::ONRIBBONVISIBILITY_CHANGE)#1228528#private: bool __cdecl CUniversalSearchBand::IsModernSearchBoxEnabled(void)#226776#private: void __cdecl CNscTree::ScaleAndSetIndent(void)#125700#public: virtual long __cdecl CTravelBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#476256"
+"pdb_BD2A3D3151C80370891D4C7521F86D351"="1#explorerframe.dll#3594433731-1732608#protected: virtual long __thiscall CNavBar::CNavBandSite::_Initialize(struct HWND__ *)#231072#private: struct HWND__ * __thiscall CNscTree::_CreateTreeview(struct HWND__ *)#183270#protected: long __thiscall CNavBar::ConstructNavBarThemeClassName(unsigned short * *)#246224#protected: void __thiscall CNavBar::_SetTheme(void)#240304#protected: static long __stdcall CTravelBand::s_TravelWndProc(struct HWND__ *,unsigned int,unsigned int,long)#239104#protected: static long __stdcall CNavBar::s_SizableWndProc(struct HWND__ *,unsigned int,unsigned int,long)#242992#public: virtual long __stdcall CUpBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#439072#private: void __thiscall CTravelBand::_CreateTravelButtons(void)#184237#private: long __thiscall CAddressBand::_AddressBandWndProc(struct HWND__ *,unsigned int,unsigned int,long)#247280#public: virtual long __stdcall CSearchBox::SetCueAndTooltipText(unsigned short const *,unsigned short const *)#428000#protected: virtual void __thiscall CAddressList::_InitCombobox(void)#230240#private: void __thiscall CExplorerFrame::_UpdateFrameState(void)#868781#private: static long __stdcall CNscTree::s_SubClassTreeWndProc(struct HWND__ *,unsigned int,unsigned int,long,unsigned int,unsigned long)#267600#private: bool __thiscall CShellBrowser::_ShouldShowRibbon(struct IShellItem *)#1169582#public: virtual long __stdcall CSeparatorBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#492240#protected: void __thiscall CNavBar::_OnFrameStateChanged(unsigned long)#966138#public: virtual long __stdcall CShellBrowser::GetFolderFlags(enum FOLDERFLAGS *,enum FOLDERFLAGS *)#503536#private: bool __thiscall CUniversalSearchBand::IsModernSearchBoxEnabled(void)#497064#public: long __thiscall CSearchEditBox::HideSuggestions(void)#1057696#private: struct _GUID __thiscall CExplorerLauncher::GetHostFromTarget(struct _ITEMIDLIST_ABSOLUTE const *)#874112#private: void __thiscall CNscTree::ScaleAndSetIndent(void)#981491#public: virtual long __stdcall CTravelBand::GetBandInfo(unsigned long,unsigned long,struct DESKBANDINFO *)#492304#private: void __thiscall CTravelBand::_SetControlState(int)#1217634#bool __stdcall UseSeparateProcess(struct IShellItem *)#1224564#private: void __thiscall CTravelBand::_SetButtonImagesClassicMode(void)#1217462#public: virtual long __stdcall CNscTree::SetStateImageList(struct _IMAGELIST *)#484992#private: void __thiscall CAddressBand::_PositionChildWindows(void)#248784"
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#private: int __cdecl CDefView::_UseItemsView(void)#773076#long __cdecl DUI_LoadUIFileFromResources(struct HINSTANCE__ *,unsigned int,unsigned short * *)#458908#public: virtual long __cdecl CStorageSystemTypeCategorizer::GetCategory(unsigned int,struct _ITEMID_CHILD const __unaligned * const *,unsigned long *)#2357584#enum FOLDERFLAGS __cdecl IViewSettings_GetFolderFlags(struct IViewSettings *)#442408#public: virtual long __cdecl CStorageSystemTypeCategorizer::CompareCategory(enum CATSORT_FLAGS,unsigned long,unsigned long)#2352944#public: virtual long __cdecl CStorageSystemTypeCategorizer::GetCategoryInfo(unsigned long,struct CATEGORY_INFO *)#2357952"
+"pdb_29D199466219488F28A92C3C5DC0D4031"="1#shell32.dll#2853404000-5988352#public: virtual long __stdcall CStorageSystemTypeCategorizer::CompareCategory(enum CATSORT_FLAGS,unsigned long,unsigned long)#2634688#private: int __thiscall CDefView::_UseItemsView(void)#1478834#public: virtual long __stdcall CStorageSystemTypeCategorizer::GetCategoryInfo(unsigned long,struct CATEGORY_INFO *)#2638416#enum FOLDERFLAGS __stdcall IViewSettings_GetFolderFlags(struct IViewSettings *)#1385047#public: virtual long __stdcall CStorageSystemTypeCategorizer::GetCategory(unsigned int,struct _ITEMID_CHILD const * const *,unsigned long *)#2638128"
+"pdb_BBC605BB05C0BDDA6B480F6289EFA2B01"="1#windows.storage.dll#2397877500-7942144#public: long __cdecl CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &)#1453836"
+"pdb_A538761CF688DCC622D36792E734F8F61"="1#windows.storage.dll#2808924897-6344704#public: long __thiscall CObjectArray::AddItemsFromKeySkip(struct HKEY__ *,unsigned short const *,unsigned long,struct _GUID const &)#1012095"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-flyout-fix]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-flyout-fix\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-flyout-fix\SymbolCache]
+"pdb_D9782E0E79BEA8110393E3E5DC9271D51"="1#timedate.cpl#3945867589-258048#IsolationAwareCreateWindowExW#55648#private: static __int64 __cdecl CTrayClock::s_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#104176"
+"pdb_64A06C000DCD684A76921120CB41780F1"="1#stobject.dll#3530662754-335872#void __cdecl UpdateFlyoutUI(void)#138280"
+"pdb_B23747ADA211245CCB559EE7AE764B461"="1#sndvol.exe#518519968-294912#public: __int64 __cdecl CDlgSimpleVolumeHost::OnInitDialog(unsigned int,unsigned __int64,__int64,int &)#50012"
+"pdb_5866759CEE63462AA91EDBD410B6DF901"="1#actioncenter.dll#1414547895-913408#private: static __int64 __cdecl CHCFlyoutWindow::CHCFlyoutSTAThread::s_WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#222672"
+"pdb_95D7370AE9F74B22BBF9D0434092DEC71"="1#van.dll#1290258911-708608#public: void __cdecl CListUiBase::PositionVanUI(bool,struct tagRECT *,unsigned int,unsigned int,struct tagPOINT *)#124304#struct tagRECT g_rcAnchor#184528#public: static __int64 __cdecl CVanUI::TopWindowSubclassProc(struct HWND__ *,unsigned int,unsigned __int64,__int64,unsigned __int64,unsigned __int64)#129544"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-tray]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-tray\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\aero-tray\SymbolCache]
+"pdb_8A05D73FB678BAE17056D112E613CE5A1"="1#explorer.exe#1912455604-5230592#private: void __cdecl CTrayOverflow::_EnsureBorder(struct HWND__ *)#107812#private: void __cdecl CTrayOverflow::_UpdateColors(void)#535976#private: __int64 __cdecl CTrayItemManager::_GetItemCountHelper(int,int)const #205268#public: long __cdecl CTrayOverflow::RuntimeClassInitialize(struct HWND__ *,class TrayOverflowEvents *,struct ITaskListAnimation *,struct ITrayComponentHost *)#106808#protected: __int64 __cdecl CTrayNotify::_OnCDNotify(struct HWND__ *,struct _NMTBCUSTOMDRAW *)#206096#private: void __cdecl CTrayOverflow::UpdateButtonMetrics(void)#537064#private: void __cdecl CTrayOverflow::_PositionWindow(void)#1845392#public: bool __cdecl CTrayOverflow::SizeWindows(void)#1844072#private: __int64 __cdecl CTrayOverflow::_OnPaint(struct HDC__ *)#1844948"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\balloon-sound-fix]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\balloon-sound-fix\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\balloon-sound-fix\SymbolCache]
+"pdb_8A05D73FB678BAE17056D112E613CE5A1"="1#explorer.exe#1912455604-5230592#SHPlaySound#2741996"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\custom-desktop-watermark]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\custom-desktop-watermark\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\custom-desktop-watermark\SymbolCache]
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#private: static void __cdecl CDesktopWatermark::s_DesktopBuildPaint(struct HDC__ *,struct tagRECT const *,struct HFONT__ *)#367696#public: static bool __cdecl CDesktopWatermark::s_WantWatermark(void)#367512"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\eradicate-immersive-menus]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\eradicate-immersive-menus\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\eradicate-immersive-menus\SymbolCache]
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#5728436"
+"pdb_29D199466219488F28A92C3C5DC0D4031"="1#shell32.dll#2853404000-5988352#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#5269078"
+"pdb_4E27C4026F4AE184BC939683E9D4188C1"="1#explorerframe.dll#1062416372-2228224#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#1586628"
+"pdb_BD2A3D3151C80370891D4C7521F86D351"="1#explorerframe.dll#3594433731-1732608#bool __stdcall ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#1455854"
+"pdb_8A05D73FB678BAE17056D112E613CE5A1"="1#explorer.exe#1912455604-5230592#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#2522452"
+"pdb_BFAD6231400A30DDB6A567DB379B18001"="1#twinui.dll#2062232623-6238208#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#4103192"
+"pdb_82D9BB9B58DC3193F7A8867DE7AE5B151"="1#twinui.pcshell.dll#3279299997-6455296#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#4704760"
+"pdb_F4FF81517938E2D369EDB1FCE18359B41"="1#sndvolsso.dll#34665963-327680#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#210380"
+"pdb_8DD6D033AA8C6621FDA808F32E4DA0711"="1#pnidui.dll#2814884353-2199552#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#279804"
+"pdb_8E18A86B103FF4880CC2A6E9D32CFC951"="1#securityhealthsso.dll#2424888252-978944#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#173020"
+"pdb_817F817A36574699A848A8C983872AFE1"="1#sndvolsso.dll#1290258895-241664#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#"
+"pdb_566B077745F94768AB2343FFF95AAA0B2"="1#pnidui.dll#1290258789-1822720#bool __cdecl ImmersiveContextMenuHelper::CanApplyOwnerDrawToMenu(struct HMENU__ *,struct HWND__ *)#"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\fix-basic-caption-text]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\fix-basic-caption-text\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\fix-basic-caption-text\SymbolCache]
+"pdb_BEB042305D925A72864BD7B56C44B3581"="1#uxtheme.dll#2711987834-475136#public: unsigned long __thiscall _NCWNDMET::GetCaptionColor(bool)#147223#struct HICON__ * __stdcall _GetWindowIcon(struct HWND__ *,int)#222132"
+"pdb_9F61C272251C1096C61F198CB99072011"="1#uxtheme.dll#113001793-647168#public: unsigned long __cdecl _NCWNDMET::GetCaptionColor(bool)#136720#struct HICON__ * __cdecl _GetWindowIcon(struct HWND__ *,int)#19612"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@cpl-reborn]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@cpl-reborn\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@cpl-reborn\SymbolCache]
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#private: static int __cdecl CControlPanelAppletList::s_SortAppletsInCategory(int const *,int const *,__int64)#1041824#private: bool __cdecl COpenControlPanel::_MapLegacyName(unsigned short const *,unsigned short *,unsigned int,bool *)#2943016"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@disk-pie-chart]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@disk-pie-chart\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@disk-pie-chart\SymbolCache]
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#DrawPie#4565164#void __cdecl _DrvPrshtDrawItem(struct DRIVEPROPSHEETPAGE const *,struct tagDRAWITEMSTRUCT const *)#2837044"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@waitbmp-loader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@waitbmp-loader\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\local@waitbmp-loader\SymbolCache]
+"pdb_D28AB5AC21AF5568574B893B49694EEB1"="1#themeui.dll#2876759004-425984#private: static __int64 __cdecl CDimmedWindow::WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#98448#private: void __cdecl CDimmedWindow::OnPaint(struct HDC__ *)#97400"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\old-this-pc-commands]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\old-this-pc-commands\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\old-this-pc-commands\SymbolCache]
+"pdb_5FE0F47AD194398F4917920564C688401"="1#shell32.dll#417016694-7618560#public: static long __cdecl CDrivesViewCallback::_OnAddRemoveProgramsPunkSite(struct IUnknown *,struct IUnknown *,struct IShellItemArray *,struct IBindCtx *)#4551344#public: static long __cdecl CDrivesViewCallback::_OnOpenSystemSettingsPunkSite(struct IUnknown *,struct IUnknown *,struct IShellItemArray *,struct IBindCtx *)#4552080#public: static long __cdecl CDrivesViewCallback::_OnSystemPropertiesPunkSite(struct IUnknown *,struct IUnknown *,struct IShellItemArray *,struct IBindCtx *)#4552240"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win32-tray-clock-experience]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win32-tray-clock-experience\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win32-tray-clock-experience\SymbolCache]
+"pdb_8A05D73FB678BAE17056D112E613CE5A1"="1#explorer.exe#1912455604-5230592#protected: virtual long __cdecl ClockButton::v_OnClick(enum ClickDevice)#1626992#public: void __cdecl ClockButton::StartTicking(void)#207076"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-alttab-loader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-alttab-loader\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-alttab-loader\SymbolCache]
+"pdb_55896468DF51411EB6184B53BAEA70E31"="1#alttab.dll#1247534719-65536#private: static void __cdecl CWindowInfo::_GetIconProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)#35768"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-style-uac-dim]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-style-uac-dim\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\win7-style-uac-dim\SymbolCache]
+"pdb_F4F0ED3E48360F643891360911AA4D471"="1#consent.exe#1959398408-204800#void __cdecl OnPaint(struct HWND__ *)#88664"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\windows-7-clock-spacing]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\windows-7-clock-spacing\LocalStorage]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\ModsWritable\windows-7-clock-spacing\SymbolCache]
+"pdb_8A05D73FB678BAE17056D112E613CE5A1"="1#explorer.exe#1912455604-5230592#public: struct tagSIZE __cdecl ClockButton::CalculateMinimumSize(struct tagSIZE)#183824#private: int __cdecl ClockButton::GetTextSpacingForOrientation(bool,int,int,int,int)#368072#private: void __cdecl ClockButton::ClockButtonImage::DrawTextW(struct HDC__ *,unsigned short const *,int,int,int,int,int)#1620468"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Engine\Settings]
+"LoggingVerbosity"=dword:00000000
+"Include"="svchost.exe|winlogon.exe|consent.exe|dwm.exe"
+"Exclude"=""
+"ThreadAttachExempt"=""
+"InjectIntoCriticalProcesses"=dword:00000001
+"LoadModsInCriticalSystemProcesses"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Windhawk\Settings]
+"Language"="en"
+"LoggingVerbosity"=dword:00000000
+"HideTrayIcon"=dword:00000000
+"DontAutoShowToolkit"=dword:00000000
+"ModTasksDialogDelay"=dword:000007d0
+"SafeMode"=dword:00000000
+"DevModeUsedAtLeastOnce"=dword:00000001
+
+
+[HKEY_CLASSES_ROOT\CLSID\{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}]
+@="GameCleanupHandler Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{F382DA49-9148-4a22-AF78-C378DFC32D02}]
+@="MS_InstalledGameProv Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{F382DA49-9148-4a22-AF78-C378DFC32D02}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}]
+@="GameCleanupHandler Class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{2e7583c7-7eba-4a1a-8468-d03d28477e6f}]
+@="Shell settings migration"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{2e7583c7-7eba-4a1a-8468-d03d28477e6f}\InProcServer32]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,6d,00,69,00,\
+  67,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,67,00,61,00,6d,00,65,00,75,\
+  00,78,00,6d,00,69,00,67,00,2e,00,64,00,6c,00,6c,00,00,00
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{6C5CFCDA-1F1A-4c9e-8D65-94771169D0B9}]
+@="GameDetails Class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{6C5CFCDA-1F1A-4c9e-8D65-94771169D0B9}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{709E2729-F883-441e-A877-ED3CEFC975E6}]
+@="ProfileNotifyHandler Class"
+"AppID"="{E10F6C3A-F1AE-4adc-AA9D-2FE65525666E}"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{709E2729-F883-441e-A877-ED3CEFC975E6}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}]
+@="GameExplorer Class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}\Programmable]
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{CA22F5B1-E06F-4A2B-94FC-21E87FE53781}]
+@="GameUpdateTask Class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{CA22F5B1-E06F-4A2B-94FC-21E87FE53781}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{DBC85A2C-C0DC-4961-B6E2-D28B62C11AD4}]
+@="GameStatistics Class"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{DBC85A2C-C0DC-4961-B6E2-D28B62C11AD4}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{E7B2FB72-D728-49B3-A5F2-18EBF5F1349E}]
+@="PSFactoryBuffer"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{E7B2FB72-D728-49B3-A5F2-18EBF5F1349E}\InProcServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}]
+@="Games Explorer"
+"InfoTip"="Play and Manage Games."
+"LocalizedString"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,\
+  6f,00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,\
+  00,5c,00,73,00,68,00,65,00,6c,00,6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,33,00,30,00,35,00,37,00,39,00,00,00
+"System.AppUserModel.ID"="Microsoft.Windows.GamesExplorer"
+"System.AppUserModel.RelaunchCommand"="%SystemRoot%\\explorer.exe shell:::{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}"
+"System.AppUserModel.RelaunchDisplayNameResource"="@%SystemRoot%\\system32\\shell32.dll,-30579"
+"System.AppUserModel.RelaunchIconResource"="%SystemRoot%\\system32\\imageres.dll,-14"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\DefaultIcon]
+@="C:\\Windows\\SysWOW64\\imageres.dll,-14"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\InprocServer32]
+@="C:\\Windows\\SysWOW64\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\Programmable]
+
+[HKEY_CLASSES_ROOT\WOW6432Node\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\ShellFolder]
+"Attributes"=dword:20100130
+"FolderValueFlags"=dword:00000000
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{2e7583c7-7eba-4a1a-8468-d03d28477e6f}]
+@="Shell settings migration"
+
+[HKEY_CLASSES_ROOT\CLSID\{2e7583c7-7eba-4a1a-8468-d03d28477e6f}\InProcServer32]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,6d,00,69,00,\
+  67,00,72,00,61,00,74,00,69,00,6f,00,6e,00,5c,00,67,00,61,00,6d,00,65,00,75,\
+  00,78,00,6d,00,69,00,67,00,2e,00,64,00,6c,00,6c,00,00,00
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}]
+"Removal Message"="@gameux.dll,-10038"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameNewsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameStatisticsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameUpdateFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\System32\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\Desktop\NameSpace\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}]
+"Removal Message"="@gameux.dll,-10038"
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameNewsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\SysWOW64\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameStatisticsFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\SysWOW64\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches\GameUpdateFiles]
+@="{06EEE695-542D-46F6-AEAB-FA2F1B2102D3}"
+"Autorun"=dword:00000001
+"IconPath"="C:\\Windows\\SysWOW64\\gameux.dll,-203"
+"Priority"=dword:000000c8
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{6C5CFCDA-1F1A-4c9e-8D65-94771169D0B9}]
+@="GameDetails Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{6C5CFCDA-1F1A-4c9e-8D65-94771169D0B9}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{709E2729-F883-441e-A877-ED3CEFC975E6}]
+@="ProfileNotifyHandler Class"
+"AppID"="{E10F6C3A-F1AE-4adc-AA9D-2FE65525666E}"
+
+[HKEY_CLASSES_ROOT\CLSID\{709E2729-F883-441e-A877-ED3CEFC975E6}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}]
+@="GameExplorer Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Both"
+
+[HKEY_CLASSES_ROOT\CLSID\{9A5EA990-3034-4D6F-9128-01F3C61022BC}\Programmable]
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{CA22F5B1-E06F-4A2B-94FC-21E87FE53781}]
+@="GameUpdateTask Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{CA22F5B1-E06F-4A2B-94FC-21E87FE53781}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{DBC85A2C-C0DC-4961-B6E2-D28B62C11AD4}]
+@="GameStatistics Class"
+
+[HKEY_CLASSES_ROOT\CLSID\{DBC85A2C-C0DC-4961-B6E2-D28B62C11AD4}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{E7B2FB72-D728-49B3-A5F2-18EBF5F1349E}]
+@="PSFactoryBuffer"
+
+[HKEY_CLASSES_ROOT\CLSID\{E7B2FB72-D728-49B3-A5F2-18EBF5F1349E}\InProcServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Both"
+
+
+
+[HKEY_CLASSES_ROOT\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}]
+@="Games Explorer"
+"InfoTip"="Play and Manage Games."
+"LocalizedString"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,\
+  6f,00,6f,00,74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,\
+  00,5c,00,73,00,68,00,65,00,6c,00,6c,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,\
+  2c,00,2d,00,33,00,30,00,35,00,37,00,39,00,00,00
+"System.AppUserModel.ID"="Microsoft.Windows.GamesExplorer"
+"System.AppUserModel.RelaunchCommand"="%SystemRoot%\\explorer.exe shell:::{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}"
+"System.AppUserModel.RelaunchDisplayNameResource"="@%SystemRoot%\\system32\\shell32.dll,-30579"
+"System.AppUserModel.RelaunchIconResource"="%SystemRoot%\\system32\\imageres.dll,-14"
+
+[HKEY_CLASSES_ROOT\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\DefaultIcon]
+@="C:\\Windows\\System32\\imageres.dll,-14"
+
+[HKEY_CLASSES_ROOT\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\InprocServer32]
+@="C:\\Windows\\System32\\gameux.dll"
+"ThreadingModel"="Apartment"
+
+[HKEY_CLASSES_ROOT\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\Programmable]
+
+[HKEY_CLASSES_ROOT\CLSID\{ED228FDF-9EA8-4870-83b1-96b02CFE0D52}\ShellFolder]
+"Attributes"=dword:20100130
+"FolderValueFlags"=dword:00000000
+
+
+

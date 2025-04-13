@@ -1,0 +1,1 @@
+start Rundll32 "%~dp0OpenGlass.dll",Main /install
