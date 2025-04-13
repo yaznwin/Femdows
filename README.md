@@ -32,8 +32,9 @@ ong all of yall goated without you femdows wouldnt be a thing
 - [UltraUXThemePatcher](https://mhoefs.eu/software_uxtheme.php?lang=en)
 - [OpenGlass by ALTaleX531](https://github.com/ALTaleX531/OpenGlass)
 - [Aero Window Manager by Dulappy](https://github.com/Dulappy/aero-window-manager)
-Disclaimer:
-These tools are created and maintained by their respective developers. Femdows only integrates them under fair use, and does not claim ownership. Please support the original creators ong they goated.
+
+- Disclaimer:
+    These tools are created and maintained by their respective developers. Femdows only integrates them under fair use, and does not claim ownership. Please support the original creators ong they goated.
 ---
 
 ### Installation
