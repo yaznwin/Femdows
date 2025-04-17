@@ -3,11 +3,14 @@ Femdows is what Windows should've been in the first place.
 
 ---
 
-### ⚠ Warning ⚠
+# ⚠ Warning ⚠
+## This will absolutely mess with your system.
+## NOT MADE FOR WINDOWS 11!
+This program is made PURELY for windows 10. Windows 11 compatibility is planned.
 
-**This will absolutely mess with your system.**  
 Use on a VM or a machine you’re ready to sacrifice to the femboy overlords.  
 I’m not responsible for any illneses caused by this, psychological, physical, or digital.
+
 ---
 
 ### Features
